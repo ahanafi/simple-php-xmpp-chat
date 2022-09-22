@@ -1,0 +1,8 @@
+{
+    "require": {
+        "norgul/xmpp-php": "^2.2",
+        "stanx/fabiang-xmpp": "^0.8.1",
+        "monolog/monolog": "^1.22",
+        "tyrola/xmpphp": "2.2"
+    }
+}
